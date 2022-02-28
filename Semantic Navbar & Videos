@@ -1,0 +1,17 @@
+<nav>
+    <ul>
+    <li><a href="/home">Home</a></li>
+    <li><a href="about">About us</a></li>
+    <li><a href="contact">Contact us</a></li>
+    <ul>
+</nav>
+<heading>3 random videos</heading>
+<video width="320" height="240" controls>
+  <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4">
+</video>
+<video width="320" height="240" controls>
+  <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4">
+</video>
+<video width="320" height="240" controls>
+  <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4">
+</video>
